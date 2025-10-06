@@ -13,7 +13,7 @@ Write a brief introduction about yourself here. Include:
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
+- **[BS Data Science]** - [BYU], [2027]
 - **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
 
 ## Skills & Interests
@@ -39,9 +39,9 @@ Describe what you hope to achieve through your data science journey:
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: corbinpchristiansen@gmail.com
+- **GitHub**: [github.com/FBIagent42)](https://github.com/FBIagent42)
+- **LinkedIn**: [linkedin.com/in/corbin-christiansen](www.linkedin.com/in/corbin-christiansen)
 
 ---
 
