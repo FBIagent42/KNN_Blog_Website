@@ -6,6 +6,7 @@ title: "Welcome to My Data Science Portfolio"
 
 Welcome to my data science portfolio! This site shows my journey learning data science and analytics. It includes projects, code samples, and insights I've gained along the way. This portfolio is a work in progress and I will be updating it regularly as I learn new skills and complete new projects.
 
+
 As I continue my studies, I will continue to add more of my finding and insights from different projects I undertake in the statistics and data science field. You can expect to see projects involving data cleaning, visualization, statistical analysis, and machine learning.
 
 ## 🎓 About This Portfolio
