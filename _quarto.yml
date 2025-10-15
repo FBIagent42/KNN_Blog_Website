@@ -15,31 +15,13 @@ website:
         href: about.md
       - text: "Blog"
         href: blog.md
-      - text: "Projects"
-        menu:
-          - text: "All Projects"
-            href: projects/index.md
-          - text: "---"
-          - text: "Exploratory Data Analysis"
-            href: projects/eda.qmd
-          - text: "Data Acquisition"
-            href: projects/data-acquisition.qmd
-          - text: "Final Project"
-            href: projects/final-project.qmd
 
     right:
       - icon: github
-        href: https://github.com/your-username
+        href: https://github.com/FBIagent42
       - icon: linkedin
-        href: https://linkedin.com/in/your-profile
+        href: www.linkedin.com/in/corbin-christiansen
     
-  sidebar:
-    - title: "Projects"
-      contents:
-        - projects/index.md
-        - projects/eda.qmd
-        - projects/data-acquisition.qmd
-        - projects/final-project.qmd
 
 format:
   html:

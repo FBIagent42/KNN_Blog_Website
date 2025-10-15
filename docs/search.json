@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to My Data Science Portfolio",
     "section": "",
-    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\n\n\n\nLearn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. It includes projects, code samples, and insights I’ve gained along the way. This portfolio is a work in progress and I will be updating it regularly as I learn new skills and complete new projects. As I continue my studies, I will continue to add more of my finding and insights from different projects I undertake in the statistics and data science field. You can expect to see projects involving data cleaning, visualization, statistical analysis, and machine learning.\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis, NumPy for numerical computing, R for statistics\nVisualization: Creating charts with Matplotlib, Seaborn, and GGplot2; Rshiny for interactive dashboards\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\n\n\nLearn how to set up a K-Nearest-Neighbors algorithm in the context of classifing board game genres.\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
   },
   {
     "objectID": "index.html#about-this-portfolio",
@@ -18,14 +18,14 @@
     "href": "index.html#skills-im-learning",
     "title": "Welcome to My Data Science Portfolio",
     "section": "",
-    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
+    "text": "Programming: Python, Pandas for data analysis, NumPy for numerical computing, R for statistics\nVisualization: Creating charts with Matplotlib, Seaborn, and GGplot2; Rshiny for interactive dashboards\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
   },
   {
     "objectID": "index.html#my-projects",
     "href": "index.html#my-projects",
     "title": "Welcome to My Data Science Portfolio",
     "section": "",
-    "text": "Learn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+    "text": "Learn how to set up a K-Nearest-Neighbors algorithm in the context of classifing board game genres.\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
   },
   {
     "objectID": "projects/index.html",
@@ -62,7 +62,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Write a brief introduction about yourself here. Include:\n\nYour academic background\nYour interest in data science\nYour career goals\nAny relevant experience or projects"
+    "text": "I am a senior at BYU majoring Data Science. I plan to graduate in 2027.\nI love working with data to find correlations and patterns in order to make predictions and informed decisions.\nI currently work for the BYU Statistics department as a grader and tutor for various data science courses, and as a research assistant for a professor in the department. In this role I help with the Learning Outcomes Assessment for the department, which involves collecting and analyzing data on student learning outcomes to help improve the curriculum and teaching methods."
   },
   {
     "objectID": "about.html#background",
@@ -76,14 +76,14 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "Education",
-    "text": "Education\n\n[Your Degree] - [University Name], [Year]\nRelevant Coursework: Statistics, Data Analysis, Programming, etc."
+    "text": "Education\n\n[BS Data Science] - [BYU], [2027]\n[AS Mathmatics and Science] - [Santiago Canyon College], [2024]\nRelevant Coursework: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization"
   },
   {
     "objectID": "about.html#skills-interests",
     "href": "about.html#skills-interests",
     "title": "About Me",
     "section": "Skills & Interests",
-    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub\n\n\n\nAreas of Interest\n\n[Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]\n[Other areas you’re curious about]"
+    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, C++, SQL\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub, Rshiny\n\n\n\nAreas of Interest\n\nI enjoy working with data in various domains, including:\n\nSports analytics(specifically Soccer)\nGaming(both online and physical games)\nEducation"
   },
   {
     "objectID": "about.html#goals",
@@ -167,5 +167,12 @@
     "title": "",
     "section": "Conclusion",
     "text": "Conclusion\nNow that you have learned how to implement a Multi-Label classification, KNN model, its time to go and try it yourself. Find yourself an interesting data set and see if you can create a KNN prediction model for it. Try out using different attributes or trying to predict different targets and see how the model fairs and use the accuracy scores to see how well you did. Once you are done with this you can go on to learn other prediction algorithms and continue to expand your data science toolkit!"
+  },
+  {
+    "objectID": "about.html#experience-background",
+    "href": "about.html#experience-background",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a senior at BYU majoring Data Science. I plan to graduate in 2027.\nI love working with data to find correlations and patterns in order to make predictions and informed decisions.\nI currently work for the BYU Statistics department as a grader and tutor for various data science courses, and as a research assistant for a professor in the department. In this role I help with the Learning Outcomes Assessment for the department, which involves collecting and analyzing data on student learning outcomes to help improve the curriculum and teaching methods."
   }
 ]

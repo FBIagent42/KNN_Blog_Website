@@ -4,7 +4,8 @@ title: "Welcome to My Data Science Portfolio"
 
 # Hello! I'm Corbin Christiansen 👋
 
-Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you'll find projects that demonstrate what I've learned and discovered.
+Welcome to my data science portfolio! This site shows my journey learning data science and analytics. It includes projects, code samples, and insights I've gained along the way. This portfolio is a work in progress and I will be updating it regularly as I learn new skills and complete new projects.
+As I continue my studies, I will continue to add more of my finding and insights from different projects I undertake in the statistics and data science field. You can expect to see projects involving data cleaning, visualization, statistical analysis, and machine learning.
 
 ## 🎓 About This Portfolio
 
@@ -18,31 +19,15 @@ I built this site using [Quarto](https://quarto.org/) and host it on [GitHub Pag
 
 ## 🛠️ Skills I'm Learning
 
-- **Programming**: Python, Pandas for data analysis
-- **Visualization**: Creating charts with Matplotlib and Seaborn
+- **Programming**: Python, Pandas for data analysis, NumPy for numerical computing, R for statistics
+- **Visualization**: Creating charts with Matplotlib, Seaborn, and GGplot2; Rshiny for interactive dashboards
 - **Data Collection**: Getting data from files, websites, and APIs
 - **Analysis**: Finding patterns and answering questions with data
 
 ## 📈 My Projects
 
-::: {.grid}
-
-::: {.g-col-6}
-### [Data Exploration Project](projects/eda.qmd)
-Learn how I explore datasets to find interesting patterns and answer questions.
-:::
-
-::: {.g-col-6}
-### [Data Collection Project](projects/data-acquisition.qmd)
-See how I gather data from different sources and prepare it for analysis.
-:::
-
-::: {.g-col-6}
-### [Final Project](projects/final-project.qmd)
-See how I tackle a data science project beginning to end.
-:::
-
-:::
+### [KNN Blog Project](blog.md)
+Learn how to set up a K-Nearest-Neighbors algorithm in the context of classifing board game genres.
 
 ---
 

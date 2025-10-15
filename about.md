@@ -2,40 +2,33 @@
 title: "About Me"
 ---
 
-## Background
+## Experience & Background
 
-Write a brief introduction about yourself here. Include:
-
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
+- I am a senior at BYU majoring Data Science. I plan to graduate in 2027.
+- I love working with data to find correlations and patterns in order to make predictions and informed decisions.
+- I currently work for the BYU Statistics department as a grader and tutor for various data science courses, and as a research assistant for a professor in the department. In this role I help with the Learning Outcomes Assessment for the department, which involves collecting and analyzing data on student learning outcomes to help improve the curriculum and teaching methods.
 
 ## Education
 
 - **[BS Data Science]** - [BYU], [2027]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **[AS Mathmatics and Science]** - [Santiago Canyon College], [2024]
+- **Relevant Coursework**: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python
+
+- **Programming**: Python, R, C++, SQL
 - **Data Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn
-- **Tools**: Jupyter Notebooks, Git/GitHub
+- **Tools**: Jupyter Notebooks, Git/GitHub, Rshiny
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
-
-## Goals
-
-Describe what you hope to achieve through your data science journey:
-
-- Short-term learning objectives
-- Long-term career aspirations
-- Types of problems you want to solve
+- I enjoy working with data in various domains, including:
+  - Sports analytics(specifically Soccer)
+  - Gaming(both online and physical games)
+  - Education
 
 ## Contact
 
