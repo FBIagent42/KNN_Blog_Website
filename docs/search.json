@@ -62,7 +62,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a senior at BYU majoring Data Science. I plan to graduate in 2027.\nI love working with data to find correlations and patterns in order to make predictions and informed decisions.\nI currently work for the BYU Statistics department as a grader and tutor for various data science courses, and as a research assistant for a professor in the department. In this role I help with the Learning Outcomes Assessment for the department, which involves collecting and analyzing data on student learning outcomes to help improve the curriculum and teaching methods."
+    "text": "[BS Data Science] - [BYU], [2027]\n[AS Mathmatics and Science] - [Santiago Canyon College], [2024]\nRelevant Coursework: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization\n\n\n\n\n\n\n\nProgramming: Python, R, C++, SQL\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub, Rshiny\n\n\n\n\n\nI enjoy working with data in various domains, including:\n\nSports analytics(specifically Soccer)\nGaming(both online and physical games)\nEducation\n\n\n\n\n\n\n\nEmail: corbinpchristiansen@gmail.com\nGitHub: github.com/FBIagent42)\nLinkedIn: linkedin.com/in/corbin-christiansen\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
   },
   {
     "objectID": "about.html#background",
@@ -75,15 +75,15 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
-    "section": "Education",
-    "text": "Education\n\n[BS Data Science] - [BYU], [2027]\n[AS Mathmatics and Science] - [Santiago Canyon College], [2024]\nRelevant Coursework: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization"
+    "section": "",
+    "text": "[BS Data Science] - [BYU], [2027]\n[AS Mathmatics and Science] - [Santiago Canyon College], [2024]\nRelevant Coursework: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization"
   },
   {
     "objectID": "about.html#skills-interests",
     "href": "about.html#skills-interests",
     "title": "About Me",
-    "section": "Skills & Interests",
-    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, C++, SQL\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub, Rshiny\n\n\n\nAreas of Interest\n\nI enjoy working with data in various domains, including:\n\nSports analytics(specifically Soccer)\nGaming(both online and physical games)\nEducation"
+    "section": "",
+    "text": "Programming: Python, R, C++, SQL\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub, Rshiny\n\n\n\n\n\nI enjoy working with data in various domains, including:\n\nSports analytics(specifically Soccer)\nGaming(both online and physical games)\nEducation"
   },
   {
     "objectID": "about.html#goals",
@@ -96,8 +96,8 @@
     "objectID": "about.html#contact",
     "href": "about.html#contact",
     "title": "About Me",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: corbinpchristiansen@gmail.com\nGitHub: github.com/FBIagent42)\nLinkedIn: linkedin.com/in/corbin-christiansen\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
+    "section": "",
+    "text": "Email: corbinpchristiansen@gmail.com\nGitHub: github.com/FBIagent42)\nLinkedIn: linkedin.com/in/corbin-christiansen\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
   },
   {
     "objectID": "projects/data-acquisition.html",
@@ -172,7 +172,14 @@
     "objectID": "about.html#experience-background",
     "href": "about.html#experience-background",
     "title": "About Me",
+    "section": "Experience & Background",
+    "text": "Experience & Background\n\nI am a senior at BYU majoring Data Science. I plan to graduate in 2027.\nI love working with data to find correlations and patterns in order to make predictions and informed decisions.\nI currently work for the BYU Statistics department as a grader and tutor for various data science courses, and as a research assistant for a professor in the department. In this role I help with the Learning Outcomes Assessment for the department, which involves collecting and analyzing data on student learning outcomes to help improve the curriculum and teaching methods."
+  },
+  {
+    "objectID": "about.html#education-background",
+    "href": "about.html#education-background",
+    "title": "About Me",
     "section": "",
-    "text": "I am a senior at BYU majoring Data Science. I plan to graduate in 2027.\nI love working with data to find correlations and patterns in order to make predictions and informed decisions.\nI currently work for the BYU Statistics department as a grader and tutor for various data science courses, and as a research assistant for a professor in the department. In this role I help with the Learning Outcomes Assessment for the department, which involves collecting and analyzing data on student learning outcomes to help improve the curriculum and teaching methods."
+    "text": "[BS Data Science] - [BYU], [2027]\n[AS Mathmatics and Science] - [Santiago Canyon College], [2024]\nRelevant Coursework: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization\n\n\n\n\n\n\n\nProgramming: Python, R, C++, SQL\nData Analysis: Pandas, NumPy\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub, Rshiny\n\n\n\n\n\nI enjoy working with data in various domains, including:\n\nSports analytics(specifically Soccer)\nGaming(both online and physical games)\nEducation\n\n\n\n\n\n\n\nEmail: corbinpchristiansen@gmail.com\nGitHub: github.com/FBIagent42)\nLinkedIn: linkedin.com/in/corbin-christiansen\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
   }
 ]
