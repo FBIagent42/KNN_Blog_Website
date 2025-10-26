@@ -18,7 +18,7 @@ title: "About Me"
 
 - **[BS Data Science]** - [BYU], [2027]
 - **[AS Mathmatics and Science]** - [Santiago Canyon College], [2024]
-- **Relevant Coursework**: Statistics(Both Sequential and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization
+- **Relevant Coursework**: Statistics(Both Frequentist and Bayesian), Data Analysis, Programming, Machine Learning, Data Visualization
 
 ## Skills & Interests
 
