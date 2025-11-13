@@ -13,8 +13,10 @@ website:
         href: index.md
       - text: "About Me"
         href: about.md
-      - text: "Blog"
+      - text: "KNN Blog"
         href: blog.md
+      - text: "EDA Blog"
+        href: eda_blog.md
 
     right:
       - icon: github
